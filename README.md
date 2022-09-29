@@ -6,10 +6,10 @@
 
 ## **Quick Start to Contribution**
 
-• Sign-up to [Hacktoberfest](https://hacktoberfest.digitalocean.com/profile) & [DagsHub](https://dagshub.com/user/sign_up?redirect_to=).
-• Join our [Hacktoberfest Discord channel](https://discord.gg/xAGgkNht)[.](https://discord.gg/8RbB9G7r6n)
-• Read the [contribution guidelines](https://hacktoberfest.com/participation/).
-• Create a Pull Requests on the GitHub 3D Model [datasets](https://github.com/DagsHub/3D-model-datasets) repository. 
+- Sign-up to [Hacktoberfest](https://hacktoberfest.digitalocean.com/profile) & [DagsHub](https://dagshub.com/user/sign_up?redirect_to=).
+- Join our [Hacktoberfest Discord channel](https://discord.gg/xAGgkNht)[.](https://discord.gg/8RbB9G7r6n)
+- Read the [contribution guidelines](https://hacktoberfest.com/participation/).
+- Create a Pull Requests on the GitHub 3D Model [datasets](https://github.com/DagsHub/3D-model-datasets) repository. 
 
 ## **What does the DagsHub community contribute?**
 
