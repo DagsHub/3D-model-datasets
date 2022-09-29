@@ -15,7 +15,9 @@
 
 **This year we'd like to focus our contribution on the 3D Models domain**. For that, we added [3D data catalog](https://dagshub.com/DagsHub/3D-model-demo) capabilities to DagsHub! You can now upload 3D Models or motion clips to DagsHub and see, move and diff it! You can see a vivid example of this (extremely cool) feature in our [HUMAN4D](https://dagshub.com/nirbarazida/HUMAN4D) project.
 
-![fox](https://user-images.githubusercontent.com/66431403/192982633-cfeaabf8-5982-4190-b04a-5b1a543127e4.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66431403/192982633-cfeaabf8-5982-4190-b04a-5b1a543127e4.gif" alt="fox" />
+</p>
 
 ## **How to contribute?**
 
