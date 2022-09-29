@@ -21,7 +21,7 @@
 
 ## **How to contribute?**
 
-- Claim the dataset you wish to contribute from the [list](https://paperswithcode.com/datasets?mod=3d) (KUDOS to Papers With Code) by opening a new issue on the [GitHub repository](https://github.com/DagsHub/3D-model-datasets) and name it after the dataset. Please make sure that the dataset wasn't claimed.
+- Claim the dataset you wish to contribute from the [list](https://paperswithcode.com/datasets?mod=3d) (KUDOS to [Papers With Code](https://paperswithcode.com/)) by opening a new issue on the [GitHub repository](https://github.com/DagsHub/3D-model-datasets) and name it after the dataset. Please make sure that the dataset wasn't claimed.
 - Open a new DagsHub repository and upload the data to its DVC storage (e.g., [dataset repository](https://dagshub.com/nirbarazida/HUMAN4D)).
 - Write information about the dataset in the README file (e.g., [HUMAN4D README](https://dagshub.com/nirbarazida/HUMAN4D/src/main/README.md)).
 - Add relevant tags to the repository and files.
