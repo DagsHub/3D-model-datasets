@@ -1,5 +1,7 @@
 # 3D-model-datasets
 
+![banner](https://user-images.githubusercontent.com/66431403/192983164-b3d6d556-ac69-4fb8-8aef-726a4386406a.png)
+
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a month-long virtual festival of open source! Participants are giving back to the community by completing pull requests, participating in events, and donating to open-source projects. This project is part of Hacktoberfest 2022, where participants enrich the open-source 3D Model datasets hosted on DagsHub.
 
 ## **Quick Start to Contribution**
@@ -13,6 +15,7 @@
 
 **This year we'd like to focus our contribution on the 3D Models domain**. For that, we added [3D data catalog](https://dagshub.com/DagsHub/3D-model-demo) capabilities to DagsHub! You can now upload 3D Models or motion clips to DagsHub and see, move and diff it! You can see a vivid example of this (extremely cool) feature in our [HUMAN4D](https://dagshub.com/nirbarazida/HUMAN4D) project.
 
+![fox](https://user-images.githubusercontent.com/66431403/192982633-cfeaabf8-5982-4190-b04a-5b1a543127e4.gif)
 
 ## **How to contribute?**
 
