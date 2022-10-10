@@ -1,4 +1,4 @@
-# PanoContext: A Whole room 3D Context Model 
+# PanoContext: A whole room 3D context model 
 
 ### DagsHub Repository: [PanoContext-A-Whole-room-3D-Context-Model](https://dagshub.com/arnavr.neo/PanoContext-A-Whole-room-3D-Context-Model) 
 
