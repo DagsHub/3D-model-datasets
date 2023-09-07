@@ -2,11 +2,13 @@
 
 ![banner](https://user-images.githubusercontent.com/66431403/192983164-b3d6d556-ac69-4fb8-8aef-726a4386406a.png)
 
-[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a month-long virtual festival of open source! Participants are giving back to the community by completing pull requests, participating in events, and donating to open-source projects. This project is part of Hacktoberfest 2022, where participants enrich the open-source 3D Model datasets hosted on DagsHub.
-
 ## What is DagsHub?
 
 [DagsHub](https://dagshub.com/) is a centralized platform to host and manage machine learning projects including code, data, models, experiments, annotations, model registry, and more! DagsHub does the MLOps heavy lifting for its users. Every repository comes with configured S3 storage, an experiment tracking server, and an annotation workspace - all using popular open-source tools like MLflow, DVC, Git, and Label Studio.
+
+## What is Hacktoberfest?
+
+[Hacktoberfest](https://hacktoberfest.com/) is a month-long virtual festival of open source! Participants are giving back to the community by completing pull requests, participating in events, and donating to open-source projects. This project is part of Hacktoberfest 2021, where participants enrich the open-source audio datasets hosted on DagsHub.
 
 ## **Quick Start to Contribution**
 
