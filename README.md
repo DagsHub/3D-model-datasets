@@ -1,4 +1,6 @@
-# 3D-model-datasets
+# Open Source 3D-model-datasets 🐶
+
+### This repository holds open-source 3D-model-datasets ready to download and be used for ML!
 
 ![banner](https://user-images.githubusercontent.com/66431403/192983164-b3d6d556-ac69-4fb8-8aef-726a4386406a.png)
 
@@ -15,7 +17,7 @@
 - Sign-up to [Hacktoberfest](https://hacktoberfest.digitalocean.com/profile) & [DagsHub](https://dagshub.com/user/sign_up?redirect_to=).
 - Join our [Hacktoberfest Discord channel](https://discord.gg/xAGgkNht)[.](https://discord.gg/8RbB9G7r6n)
 - Read the [contribution guidelines](https://hacktoberfest.com/participation/).
-- Create a Pull Requests on the GitHub 3D Model [datasets](https://github.com/DagsHub/3D-model-datasets) repository. 
+- Create a Pull Requests on the 3D Model [datasets](https://dagshub.com/DagsHub/3D-model-datasets) repository. 
 
 ## **What does the DagsHub community contribute?**
 
@@ -27,7 +29,7 @@
 
 ## **How to contribute?**
 
-- Claim the dataset you wish to contribute from the [list](https://paperswithcode.com/datasets?mod=3d) (KUDOS to [Papers With Code](https://paperswithcode.com/)) by opening a new issue on the [GitHub repository](https://github.com/DagsHub/3D-model-datasets) and name it after the dataset. Please make sure that the dataset wasn't claimed.
+- Claim the dataset you wish to contribute from the [list](https://paperswithcode.com/datasets?mod=3d) (KUDOS to [Papers With Code](https://paperswithcode.com/)) by opening a new issue on the [repository](https://dagshub.com/DagsHub/3D-model-datasets) and name it after the dataset. Please make sure that the dataset wasn't claimed.
 - Open a new DagsHub repository and upload the data to its DagsHub storage (e.g., [dataset repository](https://dagshub.com/nirbarazida/HUMAN4D)).
 - Write information about the dataset in the README file (e.g., [HUMAN4D README](https://dagshub.com/nirbarazida/HUMAN4D/src/main/README.md)).
 - Add relevant tags to the repository and files.
@@ -35,14 +37,9 @@
     - `dataset`
     - `3D Model`
     - `hacktoberfest`
-- In the GitHub [3D-model-datasets](https://github.com/DagsHub/3D-model-datasets) project:
-    - Open a new branch named after the dataset.
-    - Add a directory named after the dataset with the README file.
-    - Commit and push the changes to GitHub.
-    - Create a pull request on GitHub.
+- Open a Pull Request on the [3D-model-datasets](https://dagshub.com/DagsHub/3D-model-datasets) project with the README of the dataset and a link to the repository on DagsHub
 - Optional: Share the project on DagsHub [Hacktoberfest Discord channel](https://discord.gg/xAGgkNht).
 
 ## Reference materials
-
 - [DVC Integration](https://dagshub.com/docs/integration_guide/dvc/)
 - [Hacktoberfest 2022 Discord channel](https://discord.gg/8RbB9G7r6n)
