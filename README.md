@@ -37,7 +37,11 @@
     - `dataset`
     - `3D Model`
     - `hacktoberfest`
-- Open a Pull Request on the [3D-model-datasets](https://dagshub.com/DagsHub/3D-model-datasets) project with the README of the dataset and a link to the repository on DagsHub
+- In the [GitHub 3D-model-datasets project](https://github.com/DagsHub/3D-model-datasets):
+  - Open a new branch named after the dataset.
+  - Add a directory named after the dataset with the README file.
+  - Commit and push the changes to GitHub.
+  - Create a pull request on GitHub.
 - Optional: Share the project on DagsHub [Hacktoberfest Discord channel](https://discord.gg/xAGgkNht).
 
 ## Reference materials
